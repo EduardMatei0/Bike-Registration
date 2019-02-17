@@ -8,7 +8,7 @@ Steps for back-end
 
 2. Run CrudDemoAplication using your favorite IDE to get the server starting (localhost:8080);
 
-3. You can verify the json objects on https://localhost:8080/api/bikes or https://localhost:8080/api/bikes/1
+3. You can verify the json objects on http://localhost:8080/api/bikes or http://localhost:8080/api/bikes/1
 
 Steps for front-end
 
@@ -20,6 +20,6 @@ Steps for front-end
 
 4. Run with ng serve --proxy-config proxy.conf.json in terminal
 
-5. Type https://localhost:4200 to see bike registration form
+5. Type http://localhost:4200 to see bike registration form
 
-6. Type https://localhost:4200/admin to see table of bike objects
+6. Type http://localhost:4200/admin to see table of bike objects
