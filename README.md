@@ -6,7 +6,7 @@ Steps for back-end
 
 1. Run bikes.sql (folder database script) script in mysql workbench ( or other database, but you need to configure in application properties)
 
-2. Run DemoAplication using your favorite IDE to get the server starting (localhost:8080);
+2. Run CrudDemoAplication using your favorite IDE to get the server starting (localhost:8080);
 
 3. You can verify the json objects on https://localhost:8080/api/bikes or https://localhost:8080/api/bikes/1
 
